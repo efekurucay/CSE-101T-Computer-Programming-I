@@ -1,0 +1,4 @@
+Quiz 4 10
+Homework 3 20
+Midterm 1 30
+Final 1 40

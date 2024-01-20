@@ -1,0 +1,26 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "FinalRoomPrep2024",
+            "request": "launch",
+            "mainClass": "FinalRoomPrep2024",
+            "projectName": "New folder_18bb651",
+            "args": [
+                "20220808005",
+              
+            ]
+            
+        }
+    ]
+}

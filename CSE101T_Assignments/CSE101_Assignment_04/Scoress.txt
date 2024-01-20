@@ -1,0 +1,5 @@
+Can NaN  4.0 Passed
+John NaN  4.0 Passed
+Efe NaN  4.0 Passed
+Cannot NaN  4.0 Passed
+Burak NaN  4.0 Passed
